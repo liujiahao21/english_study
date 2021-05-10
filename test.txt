@@ -1,0 +1,26 @@
+{"englishtVlaue":"english","correct":0,"exampleSentence":"she speaks good english","level":0,"keyWordType":0,"id":7,"error":0,"chineseValue":"英语","fraction":0.0}
+{"englishtVlaue":"able","correct":0,"exampleSentence":"Is his sister able to swim","level":0,"keyWordType":0,"id":8,"error":0,"chineseValue":"有能力的，能干的","fraction":0.0}
+{"englishtVlaue":"absence","correct":0,"exampleSentence":" ","level":0,"keyWordType":0,"id":9,"error":0,"chineseValue":"缺席","fraction":0.0}
+{"englishtVlaue":"academician","correct":0,"exampleSentence":"He is an academician of the engineering academy","level":0,"keyWordType":0,"id":10,"error":0,"chineseValue":"学会会员，院士","fraction":0.0}
+{"englishtVlaue":"accessible","correct":0,"exampleSentence":"The phone is accessible","level":0,"keyWordType":0,"id":11,"error":0,"chineseValue":"[形容词]易接近，可进入，可使用","fraction":0.0}
+{"englishtVlaue":"accommodation","correct":0,"exampleSentence":"new office accommodation","level":0,"keyWordType":0,"id":12,"error":0,"chineseValue":"【名】住处，办公处，空间","fraction":0.0}
+{"englishtVlaue":"absorption","correct":0,"exampleSentence":"He is reading with absorption","level":0,"keyWordType":0,"id":13,"error":0,"chineseValue":"吸收，专注，合并","fraction":0.0}
+{"englishtVlaue":"ability","correct":0,"exampleSentence":"personal ability","level":0,"keyWordType":0,"id":14,"error":0,"chineseValue":"【名词】能力，才能","fraction":0.0}
+{"englishtVlaue":"accomplishment","correct":0,"exampleSentence":"This is no samll accomplishment","level":0,"keyWordType":0,"id":15,"error":0,"chineseValue":"[名词]成就完成","fraction":0.0}
+{"englishtVlaue":"above","correct":0,"exampleSentence":"abundance","level":0,"keyWordType":0,"id":16,"error":0,"chineseValue":"【形】上文【副】在上面【介】在。。上面","fraction":0.0}
+{"englishtVlaue":"abundance","correct":0,"exampleSentence":"abundance of water power","level":0,"keyWordType":0,"id":17,"error":0,"chineseValue":"【名】丰富，充足","fraction":0.0}
+{"englishtVlaue":"abroad","correct":0,"exampleSentence":"He lived abroad for many years","level":0,"keyWordType":0,"id":18,"error":0,"chineseValue":"【副】在国外，出国","fraction":0.0}
+{"englishtVlaue":"acceptance","correct":0,"exampleSentence":"acceptance of an invitation","level":0,"keyWordType":0,"id":19,"error":0,"chineseValue":"[名】接受，认可","fraction":0.0}
+{"englishtVlaue":"accommodate","correct":0,"exampleSentence":"The hotel can accommodate 500 guests","level":0,"keyWordType":0,"id":20,"error":0,"chineseValue":"【动词】为...提供住宿，适应","fraction":0.0}
+{"englishtVlaue":"absolute","correct":0,"exampleSentence":"absolute proof","level":0,"keyWordType":0,"id":21,"error":0,"chineseValue":"【形】完全的，绝对的","fraction":0.0}
+{"englishtVlaue":"acceleration","correct":0,"exampleSentence":"centripetal acceleration","level":0,"keyWordType":0,"id":22,"error":0,"chineseValue":"【名】加速度，加快","fraction":0.0}
+{"englishtVlaue":"abstract","correct":0,"exampleSentence":"please abstract this scientific article","level":0,"keyWordType":0,"id":23,"error":0,"chineseValue":"抽象，摘要，提取","fraction":0.0}
+{"englishtVlaue":"abuse","correct":0,"exampleSentence":"an abuse of power","level":0,"keyWordType":0,"id":24,"error":0,"chineseValue":"滥用，虐待，辱骂","fraction":0.0}
+{"englishtVlaue":"academic","correct":0,"exampleSentence":"academic degree","level":0,"keyWordType":0,"id":25,"error":0,"chineseValue":"【形】学院的，学术【名】大学教授","fraction":0.0}
+{"englishtVlaue":"accomplish","correct":0,"exampleSentence":"to accomplish a purpose","level":0,"keyWordType":0,"id":26,"error":0,"chineseValue":"【动词】完成，实现","fraction":0.0}
+{"englishtVlaue":"acceptable","correct":0,"exampleSentence":" risk","level":0,"keyWordType":0,"id":27,"error":0,"chineseValue":"【形】acceptable","fraction":0.0}
+{"englishtVlaue":"accident","correct":0,"exampleSentence":"a witnese of the accident","level":0,"keyWordType":0,"id":28,"error":0,"chineseValue":"【名】意外，意外事件","fraction":0.0}
+{"englishtVlaue":"accidental","correct":0,"exampleSentence":"accidental situation","level":0,"keyWordType":0,"id":29,"error":0,"chineseValue":"【形】偶然的，意外的","fraction":0.0}
+{"englishtVlaue":"accompany","correct":0,"exampleSentence":"please accompany me on my walk","level":0,"keyWordType":0,"id":30,"error":0,"chineseValue":"【动】陪伴，伴奏","fraction":0.0}
+{"englishtVlaue":"accord","correct":0,"exampleSentence":"null","level":0,"keyWordType":0,"id":31,"error":0,"chineseValue":"【动】符合，一致。给予【名】协议，条约，协调","fraction":0.0}
+{"englishtVlaue":"【名【一致，符合","correct":0,"exampleSentence":" accordance with your orders","level":0,"keyWordType":0,"id":32,"error":0,"chineseValue":"in","fraction":0.0}
